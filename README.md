@@ -24,12 +24,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop Preview](./result_screenshots/preview-desktop.png)
+![Desktop Preview - Active](./result_screenshots/preview-desktop_active.png)
+![Mobile Preview](./result_screenshots/preview-mobile.png)
+![Mobile Preview](./result_screenshots/preview-mobile_active.png)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Github](https://github.com/rizky-pm/fm_article-preview-component)
+-   Live Site URL: [Github Pages](https://rizky-pm.github.io/fm_article-preview-component/)
 
 ## My process
 
@@ -39,7 +42,7 @@ Users should be able to:
 -   CSS custom properties
 -   Flexbox
 -   CSS Grid
--   Mobile-first workflow
+-   Desktop-first workflow
 -   [React](https://reactjs.org/) - JS library
 -   [Styled Components](https://styled-components.com/) - For styles
 

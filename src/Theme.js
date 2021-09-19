@@ -12,6 +12,13 @@ const theme = {
         medium: 500,
         bold: 700,
     },
+    breakpoints: {
+        phones: '480px',
+        tablets: '768px',
+        laptops: '1024px',
+        desktops: '1200px',
+        xlscreens: '1201px',
+    },
 };
 
 const Theme = ({ children }) => {
